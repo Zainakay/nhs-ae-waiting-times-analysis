@@ -24,7 +24,7 @@ The analysis focuses on system pressures such as rising patient demand, staffing
 ### A&E Waiting Times Trend
 Shows a clear decline in the percentage of patients seen within the 4-hour target, particularly following the COVID-19 pandemic, highlighting increasing pressure on NHS services.
 
-![Waiting Times](images/waiting-times-trend.png)
+![Waiting Times](waiting-times-trend.png)
 
 ---
 
